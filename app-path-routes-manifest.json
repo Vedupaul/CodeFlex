@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/favicon.ico/route": "/favicon.ico",
+  "/(auth)/sign-in/[[...sign-in]]/page": "/sign-in/[[...sign-in]]",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/generate-program/page": "/generate-program",
+  "/(auth)/sign-up/[[...sign-up]]/page": "/sign-up/[[...sign-up]]"
+}
